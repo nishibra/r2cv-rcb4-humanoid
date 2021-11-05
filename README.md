@@ -4,7 +4,7 @@
 ## R2CV-rcb4-humanoid
 ![R2CV-humanoid](pics-hum/r2cv_h1.jpg)
 
-[R2CVに戻る](https://github.com/nishibra/r2cv)
+[R2CVに戻る](https://github.com/nishibra/r2cv-1)
 
 ## 目次
 [1.RasPi4と近藤科学RCB4の接続](#1)
